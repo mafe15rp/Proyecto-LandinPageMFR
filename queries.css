@@ -1,0 +1,10 @@
+@media(max-width: 768px){
+    .contenedor{
+        display: grid;
+        grid-template-rows: 1fr 1fr 1fr ;
+    }
+ .contenedor-imagenes{
+display: grid;
+grid-template-rows: 1fr 1fr 1fr ;
+ }
+}
